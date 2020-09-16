@@ -1,0 +1,1 @@
+--add-modules javafx.controls,javafx.fxml
