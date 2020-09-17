@@ -1,5 +1,5 @@
 # TestJavaFX15_linux
-Apache NetBeans IDE 12.1 + OpenJDK 11 + OpenJFX 15
+[Apache NetBeans 12 + OpenJFX 15 + OpenJDK 11 (linux)]
 
 ![Screenshot](Screenshot_5.png)
 
@@ -11,3 +11,4 @@ Apache NetBeans IDE 12.1 + OpenJDK 11 + OpenJFX 15
 
 ![Screenshot](Screenshot_4.png)
 
+OpenJFX: https://gluonhq.com/download/javafx-15-sdk-linux/
